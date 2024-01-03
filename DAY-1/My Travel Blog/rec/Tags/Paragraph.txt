@@ -1,0 +1,35 @@
+heading 
+    <h1></h1> - <h6></h6>
+
+<p> anything write here </p>
+
+for bold 
+    <b> what i want to bold </b> or use <strong></strong> (Semantic: Meaningful)
+
+for Italic 
+    <i></i> or <em></em> (Semantic: Meaningful)
+
+for Writing small 
+    <small></small>
+
+For break line in a new line
+    <br>
+
+For listing 
+    one list item 
+        <li>item</li>
+    Ordered list
+        <ol>List items</ol>
+    unordered list
+        <ul></ul>
+    
+division 
+    <div></div>
+
+hyper text or add link
+    <a href="address">must give something</a>
+
+    open link in new tab
+        <a href="" target="_blank" >must give something</a>
+    Add mail address link 
+        <a href="mailto:"></a>
