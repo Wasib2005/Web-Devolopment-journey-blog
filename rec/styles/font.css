@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Doodle+Shadow&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DotGothic16&display=swap');
+
+
+
+/* font-color */
+.fred{
+    color: red;
+}
+.fgreen{
+    color: green;
+}
+.fblue{
+    color: blue;
+}
+
+/* font-style */
+.RDS{
+    
+    font-family: 'Rubik Doodle Shadow', system-ui;
+}
+.DOT_text{
+    font-family: 'DotGothic16', sans-serif;
+}
+
+/* f0nt-position */
+.c{
+    text-align: center;
+}
+
+
